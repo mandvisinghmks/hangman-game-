@@ -1,4 +1,4 @@
-# hangman game using python
+# hangman game using python and grammer
 import random 
 # library that we use in order to choose 
 # on random words from a list of words 
